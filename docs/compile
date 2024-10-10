@@ -1,0 +1,4 @@
+#!/bin/sh
+
+~/Library/Python/3.9/bin/jb build ~/Documents/GitHub/MQP
+
